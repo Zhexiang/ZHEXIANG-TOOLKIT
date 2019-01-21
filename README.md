@@ -1,6 +1,5 @@
 # ZHEXIANG-TOOLKIT
 This Repo contains useful machine learning tools and materials
 
-1. Reference Books
+1. Useful References
 2. Python ToolKit
-3. MooC Materials
